@@ -1,8 +1,8 @@
-######AMEYA KULKARNI#############
-######MILES RNASEQ ANALYSIS######
-######ADIPOSE########
+#AMEYA KULKARNI
+#MILES RNA SEQ ANALYSIS
+#ADIPOSE
 
-setwd("Desktop/MILES/")
+#Set working directory
 
 ##Read mus-matrix file created from rsem
 fat <- read.table(file="fat-matrix.txt", header=TRUE)
