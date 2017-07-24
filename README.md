@@ -12,3 +12,8 @@ Specific Aim 2:  To assess the relationship between changes in gene expression w
 Trial design:
 
 goo.gl/oBueix
+
+Column names key for Muscle and Adipose TPM matrices:
+
+Msl.1.2.Placebo = Muscle sample for Subject 1 who received Placebo treatment at Visit 2 of the crossover trial
+WF.10.1.Metformin = Whole Fat (subcutaneous adipose) sample for Subject 2 who received Metformin treatment at visit 1 of the crossover trial
