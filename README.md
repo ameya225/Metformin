@@ -8,3 +8,7 @@ Specific Aims:  We propose a 6-week randomized, double blind, placebo controlled
 
 Specific Aim 1:  To determine if treatment with metformin (2000 mg/day) will restore the gene expression profile of older, glucose intolerant adults to that of young healthy subjects.
 Specific Aim 2:  To assess the relationship between changes in gene expression with selected phenotypic variables, including changes in glucose tolerance, vascular function, oxidative stress and inflammation.
+
+Trial design:
+
+goo.gl/oBueix
